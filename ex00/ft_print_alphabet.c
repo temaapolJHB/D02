@@ -4,11 +4,6 @@
 void ft_puchar(char c);
 void ft_print_alphabet();
 
-int main()
-{
-  ft_print_alphabet();
-}
-
 void ft_putchar(char c)
 {
 
