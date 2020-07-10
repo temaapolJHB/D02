@@ -1,4 +1,3 @@
-
 void ft_puchar(char c);
 void ft_print_alphabet();
 
@@ -23,4 +22,3 @@ void ft_print_alphabet()
 
        ft_putchar('\n');
 }
-
