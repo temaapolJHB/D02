@@ -1,16 +1,6 @@
-#include <stdio.h>
-#include <unistd.h>
 
 void ft_print_reverse_alphabet();
-void ft_putchar(char c);
-
-int main()
-{
-
-	ft_print_reverse_alphabet();
-
-	return 0;
-}
+void ft_putchar(char c);}
 
 void ft_putchar(char c)
 {
