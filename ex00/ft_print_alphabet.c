@@ -1,5 +1,3 @@
-#include <stdio.h>
-#include <unistd.h>
 
 void ft_puchar(char c);
 void ft_print_alphabet();
