@@ -1,4 +1,3 @@
-
 void ft_print_numbers();
 void ft_putchar(char c);
 
@@ -18,5 +17,3 @@ void ft_print_numbers()
    }
    ft_putchar('\n');
 }
-
-
