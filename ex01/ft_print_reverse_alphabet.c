@@ -6,12 +6,12 @@
 /*   By: temaapol <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/07/15 13:48:52 by temaapol          #+#    #+#             */
-/*   Updated: 2020/07/15 13:48:56 by temaapol         ###   ########.fr       */
+/*   Updated: 2020/07/17 09:26:03 by temaapol         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 void ft_print_reverse_alphabet();
-void ft_putchar(char c);}
+void ft_putchar(char c);
 
 void ft_putchar(char c)
 {
