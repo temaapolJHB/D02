@@ -10,9 +10,6 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-void ft_puchar(char c);
-void ft_print_alphabet();
-
 void ft_putchar(char c)
 {
 	write(1, &c, 1);
